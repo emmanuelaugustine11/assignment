@@ -1,0 +1,6 @@
+*.exe
+*.obj
+*.o
+hierarchy
+__pycache__/
+.tools/
