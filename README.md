@@ -19,7 +19,7 @@ This project answers the organisational hierarchy question supplied for this ass
 | Performance comparison table | [Comparison](comparison_and_conclusion.md#observed-search-results) |
 | Justified final conclusion | [Final conclusion](comparison_and_conclusion.md#final-conclusion) |
 
-Repository designated for submission: https://github.com/emmanuelaugustine11/assignment-2
+Repository designated for submission: https://github.com/emmanuelaugustine11/assignment
 
 ## Run the project
 
